@@ -203,11 +203,13 @@ function App() {
     return [...values].filter((year) => year !== "Unknown").sort((a, b) => b.localeCompare(a));
   }, [groups]);
   const updatedDate = data
-    ? new Date(data.generatedAt).toLocaleDateString("en-GB", {
-      day: "numeric",
-      month: "short",
-      year: "numeric",
-    })
+    ? new Date(data.generatedAt).toLocaleString("en-GB", {
+        day: "numeric",
+        month: "short",
+        year: "numeric",
+        hour: "2-digit",
+        minute: "2-digit",
+      })
     : "";
 
   const allSportsActive = areAllSportsActive(activeSports, sportTypes);
