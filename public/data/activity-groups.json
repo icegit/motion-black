@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-21T08:56:58+00:00",
+  "generatedAt": "2026-09-22T08:32:41+00:00",
   "source": "Garmin Connect",
   "clusterRadiusKm": 30,
   "locationInferenceWindowDays": 5,
   "privacyPrecisionDecimals": 1,
-  "totalActivities": 2973,
+  "totalActivities": 2975,
   "customActivities": 0,
-  "mappedActivities": 2971,
+  "mappedActivities": 2973,
   "inferredLocationActivities": 398,
   "manuallyLocatedActivities": 0,
   "unlocatedActivities": 2,
@@ -14,7 +14,7 @@
     {
       "type": "walking",
       "label": "Walking",
-      "activityCount": 1392,
+      "activityCount": 1394,
       "groupCount": 132
     },
     {
@@ -246,10 +246,10 @@
       "label": "Walking",
       "latitude": 52.3,
       "longitude": 4.8,
-      "activityCount": 1050,
+      "activityCount": 1052,
       "clusterRadiusKm": 30,
       "years": {
-        "2026": 176,
+        "2026": 178,
         "2025": 302,
         "2024": 286,
         "2023": 145,
