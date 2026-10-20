@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-22T08:32:41+00:00",
+  "generatedAt": "2026-10-20T12:57:47+00:00",
   "source": "Garmin Connect",
   "clusterRadiusKm": 30,
   "locationInferenceWindowDays": 5,
   "privacyPrecisionDecimals": 1,
-  "totalActivities": 2975,
+  "totalActivities": 3098,
   "customActivities": 0,
-  "mappedActivities": 2973,
-  "inferredLocationActivities": 398,
+  "mappedActivities": 3096,
+  "inferredLocationActivities": 455,
   "manuallyLocatedActivities": 0,
   "unlocatedActivities": 2,
   "sportTotals": [
     {
       "type": "walking",
       "label": "Walking",
-      "activityCount": 1394,
-      "groupCount": 132
+      "activityCount": 1422,
+      "groupCount": 133
     },
     {
       "type": "cycling",
       "label": "Cycling",
-      "activityCount": 631,
+      "activityCount": 639,
       "groupCount": 13
     },
     {
       "type": "swimming",
       "label": "Swimming",
-      "activityCount": 238,
-      "groupCount": 85
+      "activityCount": 268,
+      "groupCount": 87
     },
     {
       "type": "strength",
       "label": "Strength",
-      "activityCount": 219,
-      "groupCount": 33
+      "activityCount": 230,
+      "groupCount": 35
     },
     {
       "type": "excursion",
       "label": "Excursion",
-      "activityCount": 171,
-      "groupCount": 62
+      "activityCount": 184,
+      "groupCount": 64
     },
     {
       "type": "yoga",
       "label": "Yoga",
-      "activityCount": 73,
+      "activityCount": 75,
       "groupCount": 9
     },
     {
@@ -56,8 +56,8 @@
     {
       "type": "running",
       "label": "Running",
-      "activityCount": 53,
-      "groupCount": 10
+      "activityCount": 57,
+      "groupCount": 11
     },
     {
       "type": "hiking",
@@ -66,15 +66,15 @@
       "groupCount": 14
     },
     {
+      "type": "breathwork",
+      "label": "Breathwork",
+      "activityCount": 30,
+      "groupCount": 5
+    },
+    {
       "type": "snowboarding",
       "label": "Snowboarding",
       "activityCount": 12,
-      "groupCount": 3
-    },
-    {
-      "type": "breathwork",
-      "label": "Breathwork",
-      "activityCount": 10,
       "groupCount": 3
     },
     {
@@ -82,6 +82,12 @@
       "label": "Snorkeling",
       "activityCount": 10,
       "groupCount": 7
+    },
+    {
+      "type": "tennis",
+      "label": "Tennis",
+      "activityCount": 9,
+      "groupCount": 2
     },
     {
       "type": "trail_running",
@@ -94,12 +100,6 @@
       "label": "Kayaking",
       "activityCount": 6,
       "groupCount": 4
-    },
-    {
-      "type": "tennis",
-      "label": "Tennis",
-      "activityCount": 5,
-      "groupCount": 1
     },
     {
       "type": "treadmill_running",
@@ -150,6 +150,12 @@
       "groupCount": 1
     },
     {
+      "type": "golf",
+      "label": "Golf",
+      "activityCount": 2,
+      "groupCount": 2
+    },
+    {
       "type": "pilates",
       "label": "Pilates",
       "activityCount": 2,
@@ -165,6 +171,12 @@
       "type": "multisport",
       "label": "Multisport",
       "activityCount": 2,
+      "groupCount": 1
+    },
+    {
+      "type": "camel_riding",
+      "label": "Camel Riding",
+      "activityCount": 1,
       "groupCount": 1
     },
     {
@@ -246,10 +258,10 @@
       "label": "Walking",
       "latitude": 52.3,
       "longitude": 4.8,
-      "activityCount": 1052,
+      "activityCount": 1066,
       "clusterRadiusKm": 30,
       "years": {
-        "2026": 178,
+        "2026": 192,
         "2025": 302,
         "2024": 286,
         "2023": 145,
@@ -265,10 +277,10 @@
       "label": "Cycling",
       "latitude": 52.3,
       "longitude": 4.8,
-      "activityCount": 611,
+      "activityCount": 619,
       "clusterRadiusKm": 30,
       "years": {
-        "2026": 102,
+        "2026": 110,
         "2025": 37,
         "2024": 42,
         "2023": 97,
@@ -284,10 +296,10 @@
       "label": "Strength",
       "latitude": 52.3,
       "longitude": 4.8,
-      "activityCount": 180,
+      "activityCount": 188,
       "clusterRadiusKm": 30,
       "years": {
-        "2026": 68,
+        "2026": 76,
         "2025": 13,
         "2024": 6,
         "2023": 19,
@@ -303,10 +315,10 @@
       "label": "Yoga",
       "latitude": 52.3,
       "longitude": 4.8,
-      "activityCount": 64,
+      "activityCount": 66,
       "clusterRadiusKm": 30,
       "years": {
-        "2026": 25,
+        "2026": 27,
         "2025": 6,
         "2024": 8,
         "2023": 2,
@@ -322,10 +334,10 @@
       "label": "Running",
       "latitude": 52.3,
       "longitude": 4.8,
-      "activityCount": 44,
+      "activityCount": 47,
       "clusterRadiusKm": 30,
       "years": {
-        "2026": 13,
+        "2026": 16,
         "2025": 10,
         "2024": 2,
         "2023": 3,
@@ -351,6 +363,18 @@
       }
     },
     {
+      "id": "e1c19272f5eb",
+      "type": "swimming",
+      "label": "Swimming",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 26,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 26
+      }
+    },
+    {
       "id": "39a9372b1b0e",
       "type": "swimming",
       "label": "Swimming",
@@ -365,6 +389,18 @@
         "2023": 1,
         "2022": 8,
         "2021": 1
+      }
+    },
+    {
+      "id": "7c71241be215",
+      "type": "breathwork",
+      "label": "Breathwork",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 16,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 16
       }
     },
     {
@@ -500,6 +536,18 @@
       }
     },
     {
+      "id": "ad328c743b81",
+      "type": "walking",
+      "label": "Walking",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 10,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 10
+      }
+    },
+    {
       "id": "f3c9ddab67b1",
       "type": "walking",
       "label": "Walking",
@@ -576,6 +624,18 @@
       }
     },
     {
+      "id": "66b38fdabf88",
+      "type": "excursion",
+      "label": "Excursion",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 8,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 8
+      }
+    },
+    {
       "id": "d40579c18033",
       "type": "excursion",
       "label": "Excursion",
@@ -597,6 +657,19 @@
       "clusterRadiusKm": 30,
       "years": {
         "2023": 8
+      }
+    },
+    {
+      "id": "ee0c4fe10135",
+      "type": "tennis",
+      "label": "Tennis",
+      "latitude": 52.3,
+      "longitude": 4.8,
+      "activityCount": 8,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 7,
+        "2025": 1
       }
     },
     {
@@ -836,19 +909,6 @@
       }
     },
     {
-      "id": "ee0c4fe10135",
-      "type": "tennis",
-      "label": "Tennis",
-      "latitude": 52.3,
-      "longitude": 4.8,
-      "activityCount": 5,
-      "clusterRadiusKm": 30,
-      "years": {
-        "2026": 4,
-        "2025": 1
-      }
-    },
-    {
       "id": "033d55b70c3e",
       "type": "walking",
       "label": "Walking",
@@ -922,6 +982,18 @@
       }
     },
     {
+      "id": "5941a893c406",
+      "type": "breathwork",
+      "label": "Breathwork",
+      "latitude": 35.2,
+      "longitude": 33.4,
+      "activityCount": 4,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 4
+      }
+    },
+    {
       "id": "0aeb048a9dd3",
       "type": "excursion",
       "label": "Excursion",
@@ -931,6 +1003,18 @@
       "clusterRadiusKm": 30,
       "years": {
         "2025": 4
+      }
+    },
+    {
+      "id": "616c6814f461",
+      "type": "excursion",
+      "label": "Excursion",
+      "latitude": 35.2,
+      "longitude": 33.4,
+      "activityCount": 4,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 4
       }
     },
     {
@@ -1057,6 +1141,18 @@
       }
     },
     {
+      "id": "91556c60eacc",
+      "type": "swimming",
+      "label": "Swimming",
+      "latitude": 35.2,
+      "longitude": 33.4,
+      "activityCount": 4,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 4
+      }
+    },
+    {
       "id": "2a3ee51648f1",
       "type": "trail_running",
       "label": "Trail Running",
@@ -1177,6 +1273,19 @@
       "clusterRadiusKm": 30,
       "years": {
         "2025": 4
+      }
+    },
+    {
+      "id": "f0febe3fa9a0",
+      "type": "walking",
+      "label": "Walking",
+      "latitude": 48.9,
+      "longitude": 2.6,
+      "activityCount": 4,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 2,
+        "2024": 2
       }
     },
     {
@@ -1711,6 +1820,18 @@
       }
     },
     {
+      "id": "dfd7ae737463",
+      "type": "walking",
+      "label": "Walking",
+      "latitude": 35.2,
+      "longitude": 33.4,
+      "activityCount": 3,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 3
+      }
+    },
+    {
       "id": "e7c65c420f76",
       "type": "walking",
       "label": "Walking",
@@ -1768,6 +1889,19 @@
       "clusterRadiusKm": 30,
       "years": {
         "2025": 2
+      }
+    },
+    {
+      "id": "100389dfefcb",
+      "type": "excursion",
+      "label": "Excursion",
+      "latitude": 34.9,
+      "longitude": 33.6,
+      "activityCount": 2,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1,
+        "2025": 1
       }
     },
     {
@@ -2084,6 +2218,18 @@
       "clusterRadiusKm": 30,
       "years": {
         "2020": 2
+      }
+    },
+    {
+      "id": "6f4f4e8aa046",
+      "type": "strength",
+      "label": "Strength",
+      "latitude": 35.2,
+      "longitude": 33.4,
+      "activityCount": 2,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 2
       }
     },
     {
@@ -2471,18 +2617,6 @@
       "clusterRadiusKm": 30,
       "years": {
         "2025": 2
-      }
-    },
-    {
-      "id": "9b6932f9abbd",
-      "type": "walking",
-      "label": "Walking",
-      "latitude": 48.9,
-      "longitude": 2.8,
-      "activityCount": 2,
-      "clusterRadiusKm": 30,
-      "years": {
-        "2024": 2
       }
     },
     {
@@ -2906,6 +3040,18 @@
       }
     },
     {
+      "id": "7f09d5d712dd",
+      "type": "camel_riding",
+      "label": "Camel Riding",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 1,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1
+      }
+    },
+    {
       "id": "013eb9321ec0",
       "type": "cycling",
       "label": "Cycling",
@@ -3023,18 +3169,6 @@
       "clusterRadiusKm": 30,
       "years": {
         "2026": 1
-      }
-    },
-    {
-      "id": "100389dfefcb",
-      "type": "excursion",
-      "label": "Excursion",
-      "latitude": 34.9,
-      "longitude": 33.6,
-      "activityCount": 1,
-      "clusterRadiusKm": 30,
-      "years": {
-        "2025": 1
       }
     },
     {
@@ -3302,6 +3436,30 @@
       }
     },
     {
+      "id": "03e584598580",
+      "type": "golf",
+      "label": "Golf",
+      "latitude": 52.3,
+      "longitude": 4.8,
+      "activityCount": 1,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1
+      }
+    },
+    {
+      "id": "df46d294dacd",
+      "type": "golf",
+      "label": "Golf",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 1,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1
+      }
+    },
+    {
       "id": "500a119af583",
       "type": "gravel_cycling",
       "label": "Gravel Cycling",
@@ -3530,6 +3688,18 @@
       }
     },
     {
+      "id": "3cc243582f3b",
+      "type": "running",
+      "label": "Running",
+      "latitude": 35.2,
+      "longitude": 33.4,
+      "activityCount": 1,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1
+      }
+    },
+    {
       "id": "4c51a8936737",
       "type": "running",
       "label": "Running",
@@ -3719,6 +3889,18 @@
       "clusterRadiusKm": 30,
       "years": {
         "2025": 1
+      }
+    },
+    {
+      "id": "112f30c5551a",
+      "type": "strength",
+      "label": "Strength",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 1,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1
       }
     },
     {
@@ -4694,6 +4876,18 @@
       }
     },
     {
+      "id": "ae0335a6234d",
+      "type": "tennis",
+      "label": "Tennis",
+      "latitude": 36.9,
+      "longitude": 10.3,
+      "activityCount": 1,
+      "clusterRadiusKm": 30,
+      "years": {
+        "2026": 1
+      }
+    },
+    {
       "id": "05ae1acb77b9",
       "type": "trail_running",
       "label": "Trail Running",
@@ -5111,18 +5305,6 @@
       "clusterRadiusKm": 30,
       "years": {
         "2022": 1
-      }
-    },
-    {
-      "id": "7e412a52332b",
-      "type": "walking",
-      "label": "Walking",
-      "latitude": 48.9,
-      "longitude": 2.3,
-      "activityCount": 1,
-      "clusterRadiusKm": 30,
-      "years": {
-        "2026": 1
       }
     },
     {
